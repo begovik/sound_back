@@ -16,3 +16,6 @@
 /Config/database.php
 /Media/images
 /Media/files
+/node_modules
+/server/node_modules
+/client/node_modules
