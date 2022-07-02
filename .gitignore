@@ -8,7 +8,7 @@
 *.tar.gz
 *.pdf
 *.csv
-*.package-lock.json
+*package-lock.json
 /.idea
 /.htaccess
 /robots.txt
