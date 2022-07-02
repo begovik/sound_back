@@ -21,6 +21,7 @@ app.use(cors())
 app.use(cookieParser())
 app.use(fileUpload({}))
 
+// Роуты
 app.use('/api', LoginRoutes)
 app.use('/api', PostRoutes)
 app.use('/api', UserRoutes)
